@@ -1,2 +1,2 @@
 # leetcode_lims
-leetcode from Lims
+leetcode from Limas
