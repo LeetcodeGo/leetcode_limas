@@ -1,2 +1,2 @@
-# leetcode_lims
+# leetcode_limas
 leetcode from Limas
